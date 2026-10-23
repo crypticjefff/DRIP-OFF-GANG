@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Drip Off Gang">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#1b2b39"/>
+  <rect x="5" y="5" width="54" height="54" rx="11" fill="none" stroke="#b76e43" stroke-width="2"/>
+  <path d="M16 17h11c10 0 16 6 16 15S37 47 27 47H16zm8 7v16h3c5 0 8-3 8-8s-3-8-8-8z" fill="#f6f1e9"/>
+  <path d="M49 27c-1.5-2-3.5-3-6-3-5 0-8 3-8 8s3 8 8 8c1.5 0 2.7-.3 4-.9V35h-5v-6h12v14c-3 3-7 5-12 5-10 0-16-6-16-16s6-16 16-16c4 0 8 1 11 4z" fill="#dc9468" transform="translate(-4 0)"/>
+  <circle cx="48" cy="17" r="4" fill="#df2938" stroke="#f6f1e9" stroke-width="1.5"/>
+</svg>
